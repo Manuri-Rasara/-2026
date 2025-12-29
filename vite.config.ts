@@ -10,7 +10,7 @@ export default defineConfig({
     },
    
   },
-  base : '-2026',
+  base : '/-2026/',
   server: {
     port: 3000,
     strictPort: true,
